@@ -21,24 +21,24 @@
   },
   "dependencies": {
     "html-to-image": "^1.11.13",
-    "motion": "^13.1.1",
-    "next": "16.3.4",
+    "motion": "^14.8.0",
+    "next": "16.4.3",
     "qrcode": "^1.5.4",
-    "react": "19.2.8",
-    "react-dom": "19.2.8",
-    "ws": "^8.21.3"
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^26",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "electron": "^44.2.0",
-    "electron-builder": "^26.15.3",
+    "electron": "^45.1.0",
+    "electron-builder": "^26.18.0",
     "esbuild": "^0.28.2",
     "tailwindcss": "^4",
     "typescript": "^7",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.5"
   },
   "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
   "license": "MIT",
